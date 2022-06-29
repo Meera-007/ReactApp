@@ -1,0 +1,17 @@
+.chat-area{
+    height: 70vh;
+}
+
+.msg-text{
+    background: rgb(0, 166, 255);
+    color: white;
+    padding: 1.5 rem;
+    width: fit-content;
+    max-width: 70%;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.263);
+}
+
+.msg-sent{
+    background: rgb(2, 167, 2);
+    
+}
